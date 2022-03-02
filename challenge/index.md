@@ -1,4 +1,4 @@
-#3 Book Titles
+### Book Titles
 Lord of the Flies
 The Stranger
 The Great Gatsby
